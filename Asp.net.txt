@@ -1,0 +1,5 @@
+Asp.net veb tetbiqini inkisaf etdirme tavanidir. Microsoft Asp uzerinde deyisiklik etdirerek onu inkisaf 
+etdirmisler ve onu Asp.net adladirmislar. Asp.net web saytlarin, web tetbiqlerin ve XML veb servislerin hazirlanmasini
+temin edir. Asp - Aktiv server sehifeleri (Active Server Pages). Asp Windows emeliyyat sistemi uzerin internet 
+informasiya servisi ile isleye bilen bir proqramlasdirma dilidir. Server terefinden islenen neticeler, yeni verilenler
+HTML olaraq saytlarda eks olunur. Asp ile kodlanan saytlar dinamik veb saytlar da adlanir.

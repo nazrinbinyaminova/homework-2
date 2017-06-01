@@ -1,0 +1,12 @@
+Assembly dili 1952-ci ilde amerikali qadin Qreys Hopper terefinden yaradildi. 
+Bu cevirici dildir, yeni verdiyimiz emri masin diline cevirir. Hal-hazirda gunumuzde assembly dilinden
+istifade etmek ucun cox az yer var. Assembly dilinin musbet terefleri bunlardir:
+-prosessorun gucunu tam ortaya qoyan tek dildir;
+-cox az yer tutduguna gore komputer viruslarinin yazilmasinda islenir;
+-cox suretli isleyir;
+-hem oyunlar, hem de proqramlar icinde ekrana yansiyan kodlar istifade edilir;
+menfi cehetleri:
+-dilin oyrenilmesi cetindir ve uzun zaman alir;
+-diger dillere nisbeten daha cox setirden ibaret olur;
+-cox anlasiqli dil olmadigi ucun, yazilan setirlerin bir muddet sonra neyi icra etdiyi basa dusulmur;
+-prosessora baglidir.

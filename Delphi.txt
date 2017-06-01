@@ -1,0 +1,4 @@
+Delphi proqramlasdirma dili Pascal dili esasinda qurulub. Bu dil obyekt-yonlu dildir. Obyekt, sinif, funksiya kimi 
+esas OYP teknikalarini ozunde birlesdiren ve c++dan geri qalmayan guclu ve elastik bir dildir. Borland terefinden 
+inkisaf etdirilmekdedir. Win32 ve .NET platformalari uzerinde yazilmani temin edir.
+Delphi oyp oldugu ucun butun obyektlerin kodlarini ozunde toplayir. Bu kodlar "Unit"ler icerisinde toplanir.

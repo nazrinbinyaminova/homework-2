@@ -1,0 +1,11 @@
+C dili UNIX emeliyyat sistemi ucun AT&T Bel laboratoriyasinda Dennis Ritci terefinden yaradilmisdir.
+C dilinin ustun cehetleri:
+-qisa,ozlu,ifadeli, mehsuldar ve elastik bir dildir
+-az sayda acar sozden ibaretdir, amma duzgun idareetme qurulusu, guclu emeliyyat operatorlari ve verilenlerin 
+rahat birlesdirme tipleri vardir;
+-bu emeliyyatlar diger dillerde olmasa da, rahatliqla masin diline cevrilir.
+C dili birlesdirici dili kimi istifade edilir.
+menfi cehetleri:
+-bu dilde yazilan proqramlari izlemek cetindir, cunki zengin emeliyyat yigini proqrami oxumagi cetinlesdirir;
+-eyni simvolun bir nece meqsed ucun istifadesi xetalara yol acir;
+-alt ifadelerde ve ya arqument siyahisindaki ifadelerde hesablanma sirasi deyise biler.
